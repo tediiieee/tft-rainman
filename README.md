@@ -38,7 +38,7 @@ Potential features:
 # Code standard
 Standard good practise git stuff
 
-black and pep8 (black > pep8)
+black and pep8 (black > flake8)
 
 # Workflow
 TBD
