@@ -5,8 +5,11 @@ Your friendly neighborhood AI-powered rain man helping you in TFT.
 keyboard activated tft script
 
 No LOL-client requests
+
 No Inputs to keyboard/mouse or client
+
 100% legal (i think)
+
 # Tech:
 - pytorch
   - Lightning would be cool?
