@@ -25,6 +25,7 @@ Stuff that needs to be done:
     - Train model to generalize on bench bois
 - Keyboard activation
 - printscreen + cropping
+- Update read me after brainstorm 1
 
 # Main features
 Potential features:
