@@ -35,5 +35,13 @@ Potential features:
 - Expected gold to roll for champion
 - Zephyr warnings
 
+# Code standard
+Standard good practise git stuff
+
+black and pep8 (black > pep8)
+
+# Workflow
+TBD
+
 # Disclaimer
 Use at your own risk. 
